@@ -19,7 +19,7 @@
     "LaneLength": 40.0,
     "TowersPerSide": 1,
     "TowerNearPos": 0.3400000035762787,
-    "TowerFarPos": 0.33799999952316286,
+    "TowerFarPos": 0.4000000059604645,
     "TowerRange": 0.09000000357627869,
     "TowerDamage": 20.0,
     "TowerAttackInterval": 0.8999999761581421,
@@ -34,6 +34,7 @@
     "WaveEscalationAt": 0.30000001192092898,
     "WaveFinalAt": 0.6000000238418579,
     "WaveFinalIntervalScale": 0.6000000238418579,
+    "WaveScaleAfterTowerKill": 1.2000000476837159,
     "Light": {
         "Hp": 120.0,
         "Speed": 0.054999999701976779,
