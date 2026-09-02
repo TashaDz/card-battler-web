@@ -6,6 +6,8 @@
     "MaxMana": 10,
     "StartingMana": 5,
     "ManaRegenInterval": 2.5,
+    "ManaSurgeAt": 60.0,
+    "ManaSurgeScale": 0.5,
     "MatchDeckSize": 0,
     "HandSize": 4,
     "DrawTimeLimit": 0.0,
